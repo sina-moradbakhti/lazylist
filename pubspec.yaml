@@ -1,5 +1,6 @@
 name: lazylist
-description: "A new Flutter package project."
+description: "A Flutter package that provides a lazy-loading list view with customizable features and a controller for external control over list behavior.
+"
 version: 0.0.1
 homepage: https://github.com/sina-moradbakhti/lazylist
 
